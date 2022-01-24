@@ -2,6 +2,7 @@ namespace CAR_RENTAL_SERVICE.Models
 {
     public class CustomerDetails
     {
+        //commented
         public string DlNumber{get; set;}
         public string FName{get; set;}
         public string MName{get; set;}
